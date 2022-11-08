@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/0.png</file>
+        <file>images/08.30 AM.png</file>
+        <file>images/20 KM.png</file>
+        <file>images/2000 KM.png</file>
+        <file>images/27C.png</file>
+        <file>images/4.png</file>
+        <file>images/8.png</file>
+        <file>images/background.png</file>
+        <file>images/Battery.png</file>
+        <file>images/D.png</file>
+        <file>images/door car open.png</file>
+        <file>images/kmh.png</file>
+        <file>images/KWH.png</file>
+        <file>images/lamp.png</file>
+        <file>images/lamp2.png</file>
+        <file>images/left sign.png</file>
+        <file>images/line panjang.png</file>
+        <file>images/line white.png</file>
+        <file>images/Odometer.png</file>
+        <file>images/right sign.png</file>
+        <file>images/seat belt.png</file>
+        <file>images/suhu.png</file>
+    </qresource>
+</RCC>
