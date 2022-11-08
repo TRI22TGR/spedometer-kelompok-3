@@ -26,7 +26,7 @@ Window {
                 id: time
                 x: 715
                 y: 24
-                text: "12.00 AM"
+                text: "00.00 AM"
                 font.family: "Helvetica"
                 font.pointSize: 28
                 color: "white"
